@@ -14,6 +14,10 @@
 ![sungcoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungcoook&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungcoook&layout=compact&theme=tokyonight)
 
+
+## 🏅 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=your_boj_id)](https://solved.ac/sungcoook)
 ---
 
 <!-- 하단 배너 -->
