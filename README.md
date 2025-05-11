@@ -4,17 +4,7 @@
 # 👀 About Me
 
 - 👋 Hi, I’m @sungcoook  
-- 🌱 I’m currently learning **AI, Computer Vision, and LLM**  
 - 📫 How to reach me: [sungcoook@gmail.com](mailto:sungcoook@gmail.com)
-
- ### 😄 Fun Facts
-
-- 🪖 Completed military service as a Republic of Korea Marine Corps
-- 🍷 Licensed Level 1 Sommelier
-- 🚁 Licensed Drone Pilot (Korea)
-- 🥋 A first-degree black belt in Hapkido
-- 🥋 A first-degree black belt in Taekwondo
-
 
 ## 🏅 Baekjoon Algorithm
 
