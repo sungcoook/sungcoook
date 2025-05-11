@@ -17,7 +17,7 @@
 
 ## 🏅 Baekjoon Online Judge
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/sungcoook/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungcoook)](https://solved.ac/sungcoook/)
 ---
 
 <!-- 하단 배너 -->
