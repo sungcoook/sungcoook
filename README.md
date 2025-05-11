@@ -23,7 +23,7 @@
 | [SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문](https://dacon.io/competitions/official/236253/overview/description) | SW중심대학 | 음성 | 27% (61/219) | 2024.07 | - |
 
 
----
+
 
 <!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&textColor=ffffff" />
