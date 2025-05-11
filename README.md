@@ -1,7 +1,7 @@
 <!-- 상단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:3498db&height=200&section=header&text=Welcome%20to%20sungcoook's%20GitHub!&fontSize=35" />
 
-## 💁🏻 About Me
+# 👀 About Me
 
 - 👋 Hi, I’m @sungcoook  
 - 🌱 I’m currently learning **AI, Computer Vision, and LLM**  
