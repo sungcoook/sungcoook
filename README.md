@@ -16,11 +16,11 @@
 - 🥋 A first-degree black belt in Taekwondo
 
 
-## 🏅 Baekjoon Online Judge
+## 🏅 Baekjoon Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungcoook)](https://solved.ac/sungcoook/)
 
-## 🏆 Competition
+## 🏆 AI Competition
 
 | 대회명 | 주최 | Task | Rank | 날짜 | 비고 |
 |--------|------|------|------|------|------|
