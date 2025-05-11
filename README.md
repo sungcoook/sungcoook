@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **AI, Computer Vision, and LLM**  
 - 📫 How to reach me: [sungcoook@gmail.com](mailto:sungcoook@gmail.com)
 
-# 😄 Fun Facts
+### 😄 Fun Facts
 
 - 🪖 Completed military service as a Republic of Korea Marine Corps, Class 1258 (~2021.11)
 - 🍷 Certified Level 1 Sommelier
