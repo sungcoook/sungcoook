@@ -9,7 +9,7 @@
 
  ### 😄 Fun Facts
 
-- 🪖 Completed military service as a Republic of Korea Marine Corps, Class 1258 (~2021.11)
+- 🪖 Completed military service as a Republic of Korea Marine Corps (~2021.11)
 - 🍷 Certified Level 1 Sommelier
 - 🥋 A first-degree black belt in Hapkido
 - 🥋 Red Belt in Taekwondo
