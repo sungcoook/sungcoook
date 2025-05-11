@@ -4,12 +4,8 @@
 ## 👋 About Me
 
 - 👋 Hi, I’m @sungcoook  
-- 👀 I’m interested in **AI, Computer Vision, and Prompt Engineering**  
-- 🌱 I’m currently learning **LLM fine-tuning and Efficient Vision Transformers**  
-- 💞️ I’m looking to collaborate on **open-source projects in deep learning**  
+- 🌱 I’m currently learning **AI, Computer Vision, and Prompt Engineering**  
 - 📫 How to reach me: [sungcoook@gmail.com](mailto:sungcoook@gmail.com)  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I love analyzing model attention maps like Grad-CAM in my free time!
 
 ---
 
