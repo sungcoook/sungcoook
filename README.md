@@ -11,7 +11,7 @@
 
 ## 📈 GitHub Stats
 
-![sungcoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungcoook&show_icons=true&theme=radical)
+![sungcoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungcoook&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungcoook&layout=compact&theme=tokyonight)
 
 
