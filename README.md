@@ -4,7 +4,7 @@
 ## 💁🏻 About Me
 
 - 👋 Hi, I’m @sungcoook  
-- 🌱 I’m currently learning **AI, Computer Vision, and Prompt Engineering**  
+- 🌱 I’m currently learning **AI, Computer Vision, and LLM**  
 - 📫 How to reach me: [sungcoook@gmail.com](mailto:sungcoook@gmail.com)  
 
 
