@@ -10,10 +10,11 @@
  ### 😄 Fun Facts
 
 - 🪖 Completed military service as a Republic of Korea Marine Corps (~2021.11)
-- 🍷 Certified Level 1 Sommelier
+- 🍷 Licensed Level 1 Sommelier
+- 🚁 Licensed Drone Pilot (Korea)
 - 🥋 A first-degree black belt in Hapkido
 - 🥋 Red Belt in Taekwondo
-- 🚁 Licensed Drone Pilot (Korea)
+
 
 ## 🏅 Baekjoon Online Judge
 
