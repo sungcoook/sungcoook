@@ -9,5 +9,10 @@
 
 ---
 
+## 📈 GitHub Stats
+
+![sungcoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungcoook&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungcoook&layout=compact&theme=tokyonight)
+
 <!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20" />
