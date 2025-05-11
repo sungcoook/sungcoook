@@ -12,7 +12,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungcoook)](https://solved.ac/sungcoook/)
 
-## 🏅 대회
+## 🏅 Competition
 
 | 대회명 | 주최 | Task | Rank | 날짜 | 비고 |
 |--------|------|------|------|------|------|
