@@ -16,6 +16,7 @@
 
 | 대회명 | 주최 | Task | Rank | 날짜 | 비고 |
 |--------|------|------|------|------|------|
+| [건설공사 사고 예방 및 대응책 생성 : 한솔데코 시즌3 AI 경진대회](https://dacon.io/competitions/official/236455/leaderboard) | 한솔데코 | LLM | 20% (5/24) | 2025.02 | - |
 | [악성 URL 분류 AI 경진대회](https://dacon.io/competitions/official/236451/overview/description) | DACON | NLP | 5% (9/190) | 2025.02 | - |
 | [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description) | DACON | LLM | 1% (2/291) | 2025.01 | - |
 | [이미지 색상화 및 손실 부분 복원 AI 경진대회](https://dacon.io/competitions/official/236420/overview/description) | DACON | 비전 | 20% (28/140) | 2024.11 | - |
