@@ -11,7 +11,7 @@
 
 - 🪖 Completed military service as a Republic of Korea Marine Corps, Class 1258 (~2021.11)
 - 🍷 Certified Level 1 Sommelier
-- 🥋 1st Dan Black Belt in Hapkido
+- 🥋 A first-degree black belt in Hapkido
 - 🥋 Red Belt in Taekwondo
 
 
