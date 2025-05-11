@@ -22,10 +22,9 @@
 ## 🏅 대회
 
 | 대회명 | 주최 | Task | Rank | 비고 |
-|--------|------|------|------|------|------|
-| [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description) | Dacon | LLM | 2/291 (1%) |
+|--------|------|------|------|------|
+| [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description) | Dacon | LLM | 2/291 (1%) | - |
 
-> 📌 위 테이블에서 `[]()` 안의 내용만 바꿔서 여러 줄 추가하시면 됩니다!
 
 ---
 
