@@ -26,4 +26,4 @@
 ---
 
 <!-- 하단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=50&section=footer&text=Thanks%20for%20visiting!&fontSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&textColor=ffffff" />
