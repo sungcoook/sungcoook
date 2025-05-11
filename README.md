@@ -13,7 +13,7 @@
 - 🍷 Certified Level 1 Sommelier
 - 🥋 A first-degree black belt in Hapkido
 - 🥋 Red Belt in Taekwondo
-
+- 🚁 Licensed Drone Pilot (Korea)
 
 ## 🏅 Baekjoon Online Judge
 
