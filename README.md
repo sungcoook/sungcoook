@@ -21,9 +21,11 @@
 
 ## 🏅 대회
 
-| 대회명 | 주최 | Task | Rank | 비고 |
-|--------|------|------|------|------|
-| [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description) | Dacon | LLM | 2/291 (1%) | - |
+| 대회명 | 주최 | Task | Rank | 날짜 | 비고 |
+|--------|------|------|------|------|------|
+| [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description) | Dacon | LLM | 2/291 (1%) | 2025.01 | - |
+| [제1회 Medical AI (MAI) 경진대회](https://dacon.io/competitions/official/236382/overview/description) | 고려대학교 의료원 | CV | 77/266 (28%) | 2024.10 | - |
+| [SW중심대학 디지털 경진대회_SW와 생성AI의 만남 : AI 부문](https://dacon.io/competitions/official/236253/overview/description) | SW중심대학 | 음성 | 61/219 (27%) | 2024.07 | - |
 
 
 ---
