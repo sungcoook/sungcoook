@@ -1,5 +1,5 @@
 <!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:3498db&height=200&section=header&text=Welcome%20to%20Sungcoook's%20GitHub!&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ecc71,100:3498db&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35" />
 
 ## 👋 About Me
 
