@@ -8,13 +8,6 @@
 - 📫 How to reach me: [sungcoook@gmail.com](mailto:sungcoook@gmail.com)  
 
 
-
-## 📈 GitHub Stats
-
-![sungcoook's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungcoook&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungcoook&layout=compact&theme=dark)
-
-
 ## 🏅 Baekjoon Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungcoook)](https://solved.ac/sungcoook/)
