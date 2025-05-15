@@ -13,7 +13,6 @@
 | 대회명 | 주최 | Rank | 날짜 | 비고 |
 |--------|------|------|------|------|
 | [2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) | 성균관대 지능형멀티미디어연구센터 | 진행중 | 2025.04 | - |
-| [건설용 자갈 암석 종류 분류 AI 경진대회](https://dacon.io/competitions/official/236471/overview/description) | DACON | 진행중 | 2025.04 | - |
 | [신용카드 고객 세그먼트 분류 AI 경진대회](https://dacon.io/competitions/official/236460/overview/description) | DACON | 13% (31/236) | 2025.03 | - |
 | [건설공사 사고 예방 및 대응책 생성 : 한솔데코 시즌3 AI 경진대회](https://dacon.io/competitions/official/236455/overview/description) | 한솔데코 | 20% (5/24) | 2025.02 | - |
 | [악성 URL 분류 AI 경진대회](https://dacon.io/competitions/official/236451/overview/description) | DACON | 5% (9/190) | 2025.02 | - |
