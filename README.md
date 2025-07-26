@@ -12,7 +12,6 @@
 
 | 대회명 | 주최 | Rank | 날짜 | 비고 |
 |--------|------|------|------|------|
-
 | [문맥 기반 문장 순서 예측 AI 경진대회](https://dacon.io/competitions/official/236489/overview/description) | DACON | 2등 | 2025.05 | 🏆 |
 | [HAI(하이)! - Hecto AI Challenge : 2025 상반기 헥토 채용 AI 경진대회](https://dacon.io/competitions/official/236493/overview/description) | 헥토(Hecto) | 60등 (상위 8%) | 2025.05 | - |
 | [2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) | 성균관대 지능형멀티미디어연구센터 | 14등 | 2025.04 | - |
