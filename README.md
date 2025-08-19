@@ -12,7 +12,8 @@
 
 | 대회명 | 성적 (순위/참가자) | 기간 | 비고 |
 |--------|------------------|------|------|
-| [Boost up AI 2025 : 신약 개발 경진대회](https://dacon.io/competitions/official/236518/overview/description) | 2 / 763 (Top 1%) | 2025.06 ~ 07 | 🏆 |
+| [2025 SW중심대학 디지털 경진대회 : AI부문](https://dacon.io/competitions/official/236473/overview/description) | 36 / 271 (Top 13%) | 2025.07 | - |
+| [Boost up AI 2025 : 신약 개발 경진대회](https://dacon.io/competitions/official/236518/overview/description) | 2 / 763 (Top 1%) | 2025.06 | 🏆 |
 | [문맥 기반 문장 순서 예측 AI 경진대회](https://dacon.io/competitions/official/236489/overview/description) | 2 / 204 (Top 1%) | 2025.05 | 🏆 |
 | [HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description) | 60 / 748 (Top 8%) | 2025.05 | - |
 | [2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) | 14 / 109 (Top 12%) | 2025.04 | - |
