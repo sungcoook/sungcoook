@@ -10,8 +10,9 @@
 
 ## 🧑🏻‍💻 Competition
 
-| 대회명 | 주최 | 성적 (순위/참가자) | 날짜 | 비고 |
+| 대회명 | 주최 | 성적 (순위/참가자) | 기간 | 비고 |
 |--------|------|------|------|------|
+| [Boost up AI 2025 : 신약 개발 경진대회]([https://dacon.io/competitions/official/236489/overview/description](https://dacon.io/competitions/official/236518/overview/description)) | 한국화학연구원, 한국생명공학연구원 | 2 / 763 (Top 1%) | 2025.06 ~ 07 | 🏆 |
 | [문맥 기반 문장 순서 예측 AI 경진대회](https://dacon.io/competitions/official/236489/overview/description) | DACON | 2 / 204 (Top 1%) | 2025.05 | 🏆 |
 | [HAI(하이)! - Hecto AI Challenge](https://dacon.io/competitions/official/236493/overview/description) | 헥토(Hecto) | 60 / 748 (Top 8%) | 2025.05 | - |
 | [2025 Bias-A-Thon : Bias 대응 챌린지 <Track 2>](https://dacon.io/competitions/official/236487/overview/description) | 성균관대 지능형멀티미디어연구센터 | 14 / 109 (Top 12%) | 2025.04 | - |
