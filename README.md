@@ -26,5 +26,16 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungcoook)](https://solved.ac/sungcoook/)
 
+## 📜 자격증
+
+| 자격증 | 취득일 | 발급기관 |
+|--------|---------|-----------|
+| 빅데이터분석기사 | 2025.07 | 한국데이터산업진흥원 |
+| 정보처리산업기사 | 2025.06 | 한국산업인력공단 |
+| SQLD (SQL 개발자) | 2024.09 | 한국데이터산업진흥원 |
+| ADsP (데이터분석 준전문가) | 2024.06 | 한국데이터산업진흥원 |
+| 사무자동화산업기사 | 2024.06 | 한국산업인력공단 |
+| 컴퓨터활용능력 1급 | 2022.03 | 대한상공회의소 |
+
 <!-- 하단 배너 (텍스트 없음) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=120&section=footer&text=&fontSize=20" />
