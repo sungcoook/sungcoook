@@ -26,6 +26,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungcoook)](https://solved.ac/sungcoook/)
 
+## 📖 Publications & Presentations
+
+- [2025.06] 2025 IEIE 포스터 논문 발표  
+  **"RTTVNet 기반 반려견 안구 질환 분류 시스템"**
+  
 ## 📜 자격증/어학
 
 | 자격증 | 취득일 | 발급기관 |
