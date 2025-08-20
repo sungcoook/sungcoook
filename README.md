@@ -4,7 +4,7 @@
 ## 👀 About Me
 
 - 👋 Hi, I’m @sungcoook  
-- 📫 How to reach me: [sungcoook@gmail.com](mailto:sungcoook@gmail.com)
+- 📫 E-mail: [sungcoook@gmail.com](mailto:sungcoook@gmail.com)
 
 
 
