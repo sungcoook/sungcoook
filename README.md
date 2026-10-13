@@ -23,9 +23,6 @@
 | 2025.02 | [악성 URL 분류 AI 경진대회](https://dacon.io/competitions/official/236451/overview/description) | 9 / 190 (Top 4%) | - |
 | 2025.01 | [난독화된 한글 리뷰 복원 AI 경진대회](https://dacon.io/competitions/official/236446/overview/description) | 2 / 291 (Top 1%) | 🏆 |
 
-## 🏅 Baekjoon Algorithm
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungcoook)](https://solved.ac/sungcoook/)
 
 ## 📖 논문
 
